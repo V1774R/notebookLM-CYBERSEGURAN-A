@@ -7,12 +7,12 @@ Este repositório/notebook contém um compilado detalhado de conhecimentos técn
 ---
 
 ## Sumário
-1. [Fundamentos e Princípios](#-fundamentos-e-princípios)  
-2. [Ameaças e Ataques Cibernéticos](#-ameaças-e-ataques-cibernéticos)  
-3. [Metodologia de Hacking Ético](#-metodologia-de-hacking-ético)  
-4. [Criptografia e Proteção de Dados](#-criptografia-e-proteção-de-dados)  
-5. [Ferramentas e Sistemas Operacionais](#-ferramentas-e-sistemas-operacionais)  
-6. [Carreira e Certificações](#-carreira-e-certificações)  
+1. [Fundamentos e Princípios](#fundamentos-e-princípios)  
+2. [Ameaças e Ataques Cibernéticos](#ameaças-e-ataques-cibernéticos)  
+3. [Metodologia de Hacking Ético](#metodologia-de-hacking-ético)  
+4. [Criptografia e Proteção de Dados](#criptografia-e-proteção-de-dados)  
+5. [Ferramentas e Sistemas Operacionais](#ferramentas-e-sistemas-operacionais)  
+6. [Carreira e Certificações](#carreira-e-certificações)  
 
 ---
 
